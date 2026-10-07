@@ -1,0 +1,6 @@
+kaggle.json
+.kaggle/
+model_artifacts/
+data/
+*.zip
+__pycache__/
